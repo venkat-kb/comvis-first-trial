@@ -3,6 +3,7 @@ import torch.nn.functional as F
 from tqdm import tqdm
 
 #venkat
+#ARMED AND DANGEROUS
 
 class Reenactment():
     def __init__(self, dataloader, gaussianhead, supres, camera, recorder, gpu_id, freeview):
